@@ -1,3 +1,6 @@
+Section 01
+![Image](https://github.com/user-attachments/assets/952cf335-59bc-4b37-b796-81793f5ee2d8)
+
 Projects in Technology and Information Systems  
 
 ## Overview  
